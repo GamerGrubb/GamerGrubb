@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @GamerGrubb
-- 👀 I’m interested in GUI apps
-- 🌱 I’m currently learning C#
+I'm gonna kick a rock bare footed.
+I'm certified in C#, and I'm learning HTML/CSS
 
 <!---
 GamerGrubb/GamerGrubb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
