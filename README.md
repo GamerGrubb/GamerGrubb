@@ -1,2 +1,3 @@
-I'm certified in C# and JavaScript, HTML/CSS, and am shooting to go to college.
-Currently in a cybersecurity school!
+I've only got my CCST IT Support right now 💀
+I'm working on my CompTIA A+
+After attaining A+, I want to work on Microsoft System Administrator
