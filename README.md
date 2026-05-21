@@ -1,5 +1,5 @@
-I've only got my CCST IT Support right now and I'm certified in C#, HTML, CSS, Java Script and JS React
+##### I got my CompTIA A+, CCST IT Support, and CCST Cybersecurity while I'm currently working towards CCST Networking
 
-I'm working on my CompTIA A+ Core Two
+##### I know C#, HTML, CSS, Java Script and JS React
 
-After attaining my A+, I want to work towards Microsoft System Administrator
+##### Currently developing Fraud Toaster: your friendly neighborhood anti-scam browser extension teaching you about the scam, not just flagging it!
