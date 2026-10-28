@@ -1,4 +1,4 @@
-##### I got my CompTIA A+, CCST IT Support, and CCST Cybersecurity while I'm currently working towards the CCNA
+##### I got my CompTIA A+, CCST IT Support, and CCST Cybersecurity while I'm currently working towards the CCNA and Sec+
 
 ##### I know C#, HTML, CSS, Java Script and react.js
 
